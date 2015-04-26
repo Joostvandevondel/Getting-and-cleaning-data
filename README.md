@@ -1,5 +1,6 @@
 # Getting-and-cleaning-data
 
+This is a repo with the R-file for the peer assesment of Coursera Getting and cleaning data in the datascience track
 ## Step 1: Download
 *	Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 *	Rename the folder to "data".
