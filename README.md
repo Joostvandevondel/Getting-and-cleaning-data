@@ -14,8 +14,8 @@ In this readme you can find the different steps to execute this assignment. The 
 ## Step 3: Execution
 * Run R function: source("run_analysis.R") command in RStudio
 * You will find two output files are generated in the current working directory:
-	cleaned_data.txt (8.3 Mb): it contains a data frame called cleanedData with 10299*68 dimension.
-	cleaned_mean.txt (225 Kb): it contains a data frame called meanData with 180*68 dimension.
+	* cleaned_data.txt (8.3 Mb): a data frame called cleanedData with 10299*68 dimension.
+	* cleaned_mean.txt (225 Kb): a data frame called meanData with 180*68 dimension.
 
 ## Step 4: Validation
 * use data <- read.table("cleaned_mean.txt") command in RStudio to read the file.
